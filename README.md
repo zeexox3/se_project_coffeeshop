@@ -14,3 +14,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Add your ideas here :)
+
+- Make it so the paged transition into each other more smoothly, as the backgrounds are so different it makes the cutoff obvious.
